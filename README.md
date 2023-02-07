@@ -38,5 +38,11 @@ This project will focus on all new features added from Java 9 to Java 11, so tha
 
 ### Youtube
 
+[Upgrade from Java 8 to Java 11](https://www.youtube.com/playlist?list=PLQDzPczdXrThhjBcaxWxNqZqR7bg6YGMZ)
+
 ---
+
+## Part I - New features in Java 9
+
+### Chapter 01 - Modular System – Jigsaw Project
 
